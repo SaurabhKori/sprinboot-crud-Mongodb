@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-SpringBootwithNosqldbApplication<spring_bootwith_nosqldb>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.jsp.spring_bootwith_nosqldb.SpringBootwithNosqldbApplication",
+            "projectName": "spring_bootwith_nosqldb",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
